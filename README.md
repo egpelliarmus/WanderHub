@@ -1,8 +1,14 @@
 # WanderHub App
 
-WanderHub is an android application which allow user to book a desire destination from anywhere at anytime using mobile phone. This project was created using the Flutter Framework for our final exam of mobile and cloud computing. 
+WanderHub is an Android application that allows users to book a desired destination from anywhere at any time using a mobile phone. This project was created using the Flutter Framework for our final exam on mobile and cloud computing. 
 
-our group consist :
-32210070 - rafael pangestu
-32210073 - mia
-32210106 - jessica angelina
+
+Untuk langkah awal (terminal) : 
+flutter pub get > flutter run > pilih emulator atau website yang diinginkan (kami mostly memakai chrome)
+
+
+
+our group consists:
+32210070 - Rafael Pangestu,
+32210073 - Mia,
+32210106 - Jessica Angelina.
